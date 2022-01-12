@@ -3,10 +3,10 @@ import axios from "axios";
 import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
 import Loader from "react-loader-spinner";
 
-import Searchbar from "./Searchbar/Searchbar";
-import ImageGallery from "./ImageGallery/ImageGallery";
-import Button from "./Button/Button";
-import Modal from "./Modal/Modal";
+import Searchbar from "./components/Searchbar/Searchbar";
+import ImageGallery from "./components/ImageGallery/ImageGallery";
+import Button from "./components/Button/Button";
+import Modal from "./components/Modal/Modal";
 
 const apiKey = "20461350-36527ad634bc0878b1b72e118";
 
